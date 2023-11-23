@@ -16,6 +16,7 @@ This is an application created to showcase the use of Express.js to take and sto
 ## Screenshot of Application
 
 
+
 ## Installation Instructions
 In order to deploy the application, go to the terminal and enter "npm install” and "npm install express --save". Once that has been installed, go to the deployed application in Heroku to begin.
 

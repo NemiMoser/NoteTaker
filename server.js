@@ -87,8 +87,3 @@ app.delete('/api/notes/:id', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
   });
-
-
-//const generateUniqueId = () => {
-  //  return uuidv4(); // Generate a version 4 (random) UUID
-  //};

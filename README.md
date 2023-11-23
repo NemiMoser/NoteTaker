@@ -5,12 +5,16 @@
 This is an application created to showcase the use of Express.js to take and store notes.
 
 ## Table of Contents
+- [Screenshot of Application](#screenshot-of-application)
 - [Installation Instructions](#installation-instructions)
 - [Usage Information](#usage-information)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Test Instructions](#test-instructions)
 - [License](#license)
 - [Questions](#questions)
+
+## Screenshot of Application
+
 
 ## Installation Instructions
 In order to deploy the application, go to the terminal and enter "npm install” and "npm install express --save". Once that has been installed, go to the deployed application in Heroku to begin.

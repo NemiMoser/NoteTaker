@@ -1,7 +1,17 @@
 [
-    {
-        "id": "1",
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "id": "f52fc924-a6d0-4c37-bc4d-35ed4aa095e2",
+    "title": "Notes",
+    "text": "work"
+  },
+  {
+    "id": "6074c5d0-16f6-4874-93df-4e4c875ecfd7",
+    "title": "Note Title",
+    "text": "Note text"
+  },
+  {
+    "id": "46a4c37f-6b18-4914-a41f-96037e0ecfb3",
+    "title": "Dinner",
+    "text": "buy groceries"
+  }
 ]
